@@ -1,0 +1,17 @@
+html{
+	background-color: yellow;
+}
+
+.wrapper{
+	margin: 0 auto;
+	width: 600px;
+}
+
+img{
+	display: block;
+	max-width: 100%;
+}
+
+span.highlight{
+	background: peachpuff;
+}

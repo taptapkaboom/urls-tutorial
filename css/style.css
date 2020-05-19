@@ -1,0 +1,18 @@
+html{
+	background-color: lightblue;
+	font-family: sans-serif;
+}
+
+.wrapper{
+	margin: 0 auto;
+	width: 600px;
+}
+
+img{
+	display: block;
+	max-width: 100%;
+}
+
+span.highlight{
+	background: yellow;
+}
